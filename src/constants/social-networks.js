@@ -7,11 +7,11 @@ export const socialNetworks = [
   {
     id: 'twitter',
     name: 'Twitter',
-    url: 'https://twitter.com/yomar_dev'
+    url: 'https://twitter.com/yomar_dev',
   },
   {
     id: 'github',
     name: 'GitHub',
-    url: 'https://github.com/yomar-dev'
-  }
-]
+    url: 'https://github.com/yomar-dev',
+  },
+];
