@@ -8,7 +8,7 @@ function Main() {
         <img
           src={require('../../assets/images/profile.jpeg')}
           className="header__image"
-          alt="Yomar"
+          alt="Yomar Miranda"
         />
       </header>
 

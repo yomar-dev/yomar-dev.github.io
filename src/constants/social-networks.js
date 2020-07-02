@@ -1,7 +1,7 @@
 export const socialNetworks = [
   {
     id: 'linkedin',
-    name: 'Linkedin',
+    name: 'LinkedIn',
     url: 'https://www.linkedin.com/in/yomar-dev/',
   },
   {
